@@ -1,5 +1,7 @@
 ### Hi there 👋
-## Bem vindo ao meu perfil GitHub 👋
+
+# Olá, eu sou Ricardo Filgueiras👋
+## Bem vindo ao meu perfil GitHub 
 
 Olá!  Eu sou o Ricardo, um desenvolvedor apaixonado por ciência de dados, principalmente em análise de dados.
 
